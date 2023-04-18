@@ -1,0 +1,12 @@
+.well {
+    border: 5px solid black;
+    padding: 25px;
+    width: 200px;
+    height: 200px;
+}
+.first {
+   background-color: blue;
+}
+.second {
+    background-color: red;
+}
